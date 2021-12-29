@@ -229,7 +229,7 @@
       function addDarkModeButton(device) {
         const nav = device === 'web' ? document.querySelector('.notion-topbar').firstChild : document.querySelector('.notion-topbar-mobile');
         el.className = 'toggle-mode';
-        el.addEventListener('click', toggle);
+        //el.addEventListener('click', toggle);
         nav.appendChild(el);
         onDark();
       }
