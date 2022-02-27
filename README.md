@@ -1,10 +1,15 @@
 ### Hello there! 👋
 
+- 🏎 I’ve been driven by a passion for making life easier, mine and yours. 
 - 🎓 I'm a graduate student at [CMU](https://www.cmu.edu/). I am majoring in Information Systems Management. 
 - 🔭 In the past, I've worked as a Consultant with Deloitte US-India. I worked in Data Analytics and automated a lot of boring stuff, saving loads of time for myself and my team.
 - 🌱 My current journey is focussed at becoming a better problem solver using data. 
 - 📚 I enjoy reading and Orwell's 1984 is one of my favorites. 
 - 😄 Pronouns: He/Him/His
+
+#### Hire me!
+
+- 👀 I am on the lookout for full-time opportunities starting August 2022
 
 <!--
 **namanarora97/namanarora97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
