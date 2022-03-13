@@ -7,6 +7,10 @@
 - 📚 I enjoy reading and Orwell's 1984 is one of my favorites. 
 - 😄 Pronouns: He/Him/His
 
+### Get in touch
+
+[![Image](https://img.shields.io/badge/naman--arora-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/naman-arora/)
+
 #### Hire me!
 
   👀 I am on the lookout for full-time opportunities starting August 2022
