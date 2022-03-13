@@ -9,7 +9,7 @@
 
 ### Get in touch
 
-[![Image](https://img.shields.io/badge/naman--arora-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/naman-arora/)
+[![LinkedIn](https://img.shields.io/badge/naman--arora-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/naman-arora/)
 
 #### Hire me!
 
