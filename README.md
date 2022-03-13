@@ -9,9 +9,9 @@
 
 ### Get in touch
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:namanarora@cmu.edu)
-[![LinkedIn](https://img.shields.io/badge/naman--arora-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/naman-arora/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://namanarora.me/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:namanarora@cmu.edu)
+[![LinkedIn](https://img.shields.io/badge/naman--arora-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/naman-arora/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=About.me&logoColor=white)](https://namanarora.me/)
 
 #### Hire me!
 
