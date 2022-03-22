@@ -16,6 +16,9 @@
 #### Hire me!
 
   👀 I am on the lookout for full-time opportunities starting August 2022
+  
+  
+![](https://hit.yhype.me/github/profile?user_id=85018020)
 
 <!--
 **namanarora97/namanarora97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
