@@ -2,7 +2,7 @@
 
 🏎 I’ve been driven by a passion for making life easier, mine and yours.  
 🎓 I graduated from CMU with a Master's degree in Information Systems Management.  
-🔭 I help a hedge fund make money with data.  
+🔭 I work as a Data Engineer. 
 📚 I enjoy reading and Orwell's 1984 is one of my favorites.  
 😄 Pronouns: He/Him/His
 
